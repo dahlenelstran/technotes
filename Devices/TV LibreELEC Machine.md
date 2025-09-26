@@ -1,0 +1,1 @@
+If the [[Insignia F50 70inch]] struggles with some containers and codecs, it may be a good idea to have a mini-PC act as the "client" instead of the TV itself, essentially acting as a FireStick. Additionally, one could browse the internet from the TV as well, and possibly stream games from my PC.

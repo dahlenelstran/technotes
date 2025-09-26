@@ -1,0 +1,1 @@
+Ideally, connected to [[Denon CD Player]], [[Insignia F50 70inch]], [[TV LibreELEC Machine]].

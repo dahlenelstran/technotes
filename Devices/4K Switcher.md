@@ -1,0 +1,1 @@
+Does [[Transcoding|transcoding]] come into play when thinking about a 4K switcher?
